@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Sha256 Hasher\bin\Release\Sha256 Hasher.exe.config
+C:\Users\Admin\source\repos\Sha256 Hasher\bin\Release\Sha256 Hasher.exe
+C:\Users\Admin\source\repos\Sha256 Hasher\bin\Release\Sha256 Hasher.pdb
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256 Hasher.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256_Hasher.Form1.resources
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256_Hasher.Properties.Resources.resources
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256 Hasher.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256 Hasher.exe
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256 Hasher.pdb
+C:\Users\Admin\source\repos\Sha256 Hasher\bin\Release\Sha256 Hasher.exe.manifest
+C:\Users\Admin\source\repos\Sha256 Hasher\bin\Release\Sha256 Hasher.application
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256 Hasher.exe.manifest
+C:\Users\Admin\source\repos\Sha256 Hasher\obj\Release\Sha256 Hasher.application
